@@ -21,3 +21,12 @@ https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh  // Instalar
 ATENCIÓN:
 Para instalar opencv en arquitectura arm hay que hacerlo a mano, para ello, hay que basarse en el siguiente video.
 https://pysource.com/2019/08/26/install-opencv-4-1-on-nvidia-jetson-nano/
+
+
+Fuentes:
+Social Distance Detector
+https://heartbeat.fritz.ai/social-distance-detector-with-python-yolov4-darknet-and-opencv-62e66c15c2a4
+Yolo Theory
+https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
+Yolo from scratch
+https://www.youtube.com/watch?v=h56M5iUVgGs
