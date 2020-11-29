@@ -1,10 +1,18 @@
 # MQTT YOLO
+### Introduccion:
+MQTT(Message Queuing Telemetry Transport) es un protocolo de comunicación ligero M2M(Machine2Machine). 
 
 <p align="center">
   <img src="https://cdn.sparkfun.com/assets/learn_tutorials/8/2/7/mqtt-explanation2.png" width="350" title="hover text">
 </p>
-PASOS
-1. Instalar anaconda en jetson
+
+# PASOS
+1. Instalar mosquitto
+
+Tal como dice Abraham Lincoln:
+
+> Con perdón de la expresión
+
 https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh  // Instalar esto en linux
 
 2.Crear env con python 3.6 estable
