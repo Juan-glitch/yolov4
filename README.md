@@ -23,13 +23,13 @@ MQTT(Message Queuing Telemetry Transport) es un protocolo de comunicación liger
 
 ***Fuentes:***
 
-1 Theory + Practice: IoT con MQTT + Mosquitto + Python
+- Theory + Practice: IoT con MQTT + Mosquitto + Python
 https://www.youtube.com/watch?v=hEFSaysEIhs
-2 FAST Response search
+- FAST Response search
 https://pypi.org/project/paho-mqtt/#subscribe-unsubscribe
-3 Bytedata send modes
+- Bytedata send modes
 https://stackoverflow.com/questions/8634473/sending-json-request-with-python
-4 Official Paho-MQTT documentation
+- Official Paho-MQTT documentation
 https://pypi.org/project/paho-mqtt/#subscribe-unsubscribe
 
 
