@@ -7,20 +7,22 @@ MQTT(Message Queuing Telemetry Transport) es un protocolo de comunicación liger
 </p>
 
 # PASOS
-1. Install MQTT Server
+- 1. Install MQTT Server
 
 	>sudo aptitude install mosquitto
 	>sudo aptitude install mosquitto-clients
 	
-2.Usar el archivo ***config*** para cargar la configuración del servidor
+- 2.Usar el archivo ***config*** para cargar la configuración del servidor
 	>mosquitto -c mosquitto.conf 
 
-3. Instalar MQTT_MODULE en entorno de trabajo
+
+- 3. Instalar MQTT_MODULE en entorno de trabajo
 	>pip install --user paho-mqtt
 
 
 
 ***Fuentes:***
+
 Theory + Practice: IoT con MQTT + Mosquitto + Python
 https://www.youtube.com/watch?v=hEFSaysEIhs
 FAST Response search
