@@ -1,4 +1,8 @@
-# yolov4
+# MQTT YOLO
+
+<p align="center">
+  <img src="https://cdn.sparkfun.com/assets/learn_tutorials/8/2/7/mqtt-explanation2.png" width="350" title="hover text">
+</p>
 PASOS
 1. Instalar anaconda en jetson
 https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh  // Instalar esto en linux
@@ -30,3 +34,6 @@ Yolo Theory
 https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
 Yolo from scratch
 https://www.youtube.com/watch?v=h56M5iUVgGs
+
+
+
