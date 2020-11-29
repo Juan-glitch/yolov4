@@ -1,6 +1,11 @@
 # yolov4
 
-PASOS
+<p align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsocialdistancingguidelines.com%2Fwp-content%2Fuploads%2F2020%2F03%2F1585180036_maxresdefault.jpg&f=1&nofb=1" width="350" title="hover text">
+</p>
+
+## PASOS
+
 1. Instalar anaconda en jetson
 https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh  // Instalar esto en linux
 
