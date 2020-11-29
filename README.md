@@ -12,7 +12,7 @@ MQTT(Message Queuing Telemetry Transport) es un protocolo de comunicación liger
 	>sudo aptitude install mosquitto
 	>sudo aptitude install mosquitto-clients
 	
-- 2.Usar el archivo ***config*** para cargar la configuración del servidor
+- 2. Usar el archivo ***config*** para cargar la configuración del servidor
 	>mosquitto -c mosquitto.conf 
 
 
@@ -23,13 +23,13 @@ MQTT(Message Queuing Telemetry Transport) es un protocolo de comunicación liger
 
 ***Fuentes:***
 
-Theory + Practice: IoT con MQTT + Mosquitto + Python
+1 Theory + Practice: IoT con MQTT + Mosquitto + Python
 https://www.youtube.com/watch?v=hEFSaysEIhs
-FAST Response search
+2 FAST Response search
 https://pypi.org/project/paho-mqtt/#subscribe-unsubscribe
-Bytedata send modes
+3 Bytedata send modes
 https://stackoverflow.com/questions/8634473/sending-json-request-with-python
-Official Paho-MQTT documentation
+4 Official Paho-MQTT documentation
 https://pypi.org/project/paho-mqtt/#subscribe-unsubscribe
 
 
