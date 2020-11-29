@@ -6,7 +6,7 @@ MQTT(Message Queuing Telemetry Transport) es un protocolo de comunicación liger
   <img src="https://cdn.sparkfun.com/assets/learn_tutorials/8/2/7/mqtt-explanation2.png" width="350" title="hover text">
 </p>
 
-# PASOS
+### PASOS
 - 1. Install MQTT Server
 
 	>sudo aptitude install mosquitto
@@ -21,7 +21,8 @@ MQTT(Message Queuing Telemetry Transport) es un protocolo de comunicación liger
 
 
 
-***Fuentes:***
+
+### ***Fuentes:***
 
 - Theory + Practice: IoT con MQTT + Mosquitto + Python
 https://www.youtube.com/watch?v=hEFSaysEIhs
